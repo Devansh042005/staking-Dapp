@@ -10,6 +10,8 @@ function App() {
       <Wallet>
         <Navigation/>
         <DisplayPanel/>
+        <StakeAmount/>
+        <TokenApproval/>
       </Wallet>
     </>
   )
