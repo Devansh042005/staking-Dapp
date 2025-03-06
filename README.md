@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/5943a78f-605a-4128-936a-e82438159582)
+
+
 The StakingDapp is a decentralized application that enables users to stake ERC20 tokens into the platform and earn rewards. The staking process generates reward tokens per second, rewarding users based on their staked amount and duration.
 
 Key Tokens
